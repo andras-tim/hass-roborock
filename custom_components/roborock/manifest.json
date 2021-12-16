@@ -1,6 +1,6 @@
 {
-  "domain": "roborock",
-  "name": "Roborock",
+  "domain": "roborock2",
+  "name": "Roborock - @nathanfiscus",
   "version": "0.1.2",
   "config_flow": true,
   "documentation": "https://www.google.com",
