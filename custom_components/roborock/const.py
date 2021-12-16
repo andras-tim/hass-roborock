@@ -1,5 +1,5 @@
 """Constants for the Xiaomi Miio component."""
-DOMAIN = "roborock"
+DOMAIN = "roborock2"
 
 CONF_FLOW_TYPE = "config_flow_device"
 CONF_DEVICE = "device"
